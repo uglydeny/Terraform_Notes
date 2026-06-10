@@ -1,0 +1,11 @@
+terraform init --> Used to initialize provider of resource manager 
+terraform fmt  --> Remove Unused Space from Code
+terraform validate --> Checks the code if it is valid or not. If it valid it shows Success! The configuration is valid. and if it is not valid it will give an error
+terraform refresh --> It Syncs the statefile with the actual cloud
+terraform plan --> It gives the preview by comparing code with statefile (how much to add , change or destory)
+terraform apply --> Actually do the works and create the resources in cloud
+
+Execution of Commands 
+
+terraform plan ---> terraform refresh + terraform plan
+terraform apply ---> terraform refresh + terraform plan + terraform apply
