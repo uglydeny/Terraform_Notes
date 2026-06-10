@@ -21,6 +21,7 @@ override.tf.json
 
 # Ignore transient lock info files created during terraform apply
 .terraform.tfstate.lock.info
+.terraform.lock.hcl
 
 # Include tfplan files to ignore local plan outputs
 *tfplan*
