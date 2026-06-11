@@ -39,3 +39,19 @@ Interview Question Scenario Based
 9. terraform plan shows a resource will be destroyed & recreated.
 
 10 .How do you avoid downtime?
+
+
+Q.22
+What is the purpose of the terraform refresh command?
+
+        terraform command use to update the statefile with the cloud of their existing resource or sync with the cloud to match the infra
+
+Q.24
+What happens if someone manually edits the Terraform state file?
+
+       terraform will think the resource isn't created and will make a new resource when we run terraform apply command and it will give error when the resource group have same names because the resource is present on the azure portal but missing in the terraform statefile
+
+Q.29.
+What happens when the state file and actual infrastructure are out of sync?
+
+       when the state file and actual infra isnt sync or mismatch it is said to be drift state and when we run terraform plan it will show plan to add or destroy depending if the resource is missing in the terraform statefile, terraform refresh helps in syncing the statefile with cloud.
