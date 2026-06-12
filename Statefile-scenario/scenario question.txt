@@ -43,10 +43,12 @@ Terraform State File Interview Scenarios (Questions Only):
 21. What challenges can arise when multiple workspaces share the same backend?
 
 22. What is the purpose of the `terraform refresh` command?
+terraform command use to update the statefile with the cloud of their existing resource or sync with the cloud to match the infra
 
 23. How would you migrate resources between Terraform modules while preserving state?
 
 24. What happens if someone manually edits the Terraform state file?
+terraform will think the resource isn't created and will make a new resource when we run terraform apply command and it will give error when the resource group have same names because the resource is present on the azure portal but missing in the terraform statefile
 
 25. How do you troubleshoot a "state lock" issue during deployment?
 
@@ -57,5 +59,7 @@ Terraform State File Interview Scenarios (Questions Only):
 28. How do you audit who changed the Terraform state and when?
 
 29. What happens when the state file and actual infrastructure are out of sync?
+when the state file and actual infra isnt sync or mismatch it is said to be drift state and when we run terraform plan it will show plan to add or destroy depending if the resource is missing in the terraform statefile, terraform refresh helps in syncing the statefile with cloud.
+
 
 30. Explain a real-world incident where Terraform state management caused deployment issues and how you resolved it.
