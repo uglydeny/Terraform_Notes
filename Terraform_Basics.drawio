@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="tQg9Vybp1Zp3cr1_tmMv">
-    <mxGraphModel dx="2423" dy="29583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1951" dy="29536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -577,37 +577,37 @@
           <mxGeometry height="30" width="195" x="-17.120000000000005" y="-25990" as="geometry" />
         </mxCell>
         <mxCell id="zwHu8DHvK1aOWj3l_IkL-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;" value="Step 9" vertex="1">
-          <mxGeometry height="30" width="100" x="-421.44" y="-25890" as="geometry" />
+          <mxGeometry height="30" width="100" x="-289.56" y="-25890" as="geometry" />
         </mxCell>
         <mxCell id="zwHu8DHvK1aOWj3l_IkL-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Changes Done on Cloud" vertex="1">
-          <mxGeometry height="30" width="195" x="-321.44" y="-25890" as="geometry" />
+          <mxGeometry height="30" width="195" x="-189.56" y="-25890" as="geometry" />
         </mxCell>
         <mxCell id="9z-JmmtiOwEKMS3U_jJR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=22;fontStyle=1" value="State File&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="480" x="-441.06" y="-25920" as="geometry" />
+          <mxGeometry height="40" width="480" x="-309.18" y="-25920" as="geometry" />
         </mxCell>
         <mxCell id="9z-JmmtiOwEKMS3U_jJR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" value="Terraform ka Brain&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="480" x="-441.06" y="-25880" as="geometry" />
+          <mxGeometry height="40" width="480" x="-309.18" y="-25880" as="geometry" />
         </mxCell>
         <mxCell id="9z-JmmtiOwEKMS3U_jJR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0;fillColor=#fff2cc;strokeColor=light-dark(#0a0a0a, #6d5100);" value="State file is link between code and cloud" vertex="1">
-          <mxGeometry height="30" width="480" x="-441.06" y="-25840" as="geometry" />
+          <mxGeometry height="30" width="480" x="-309.18" y="-25840" as="geometry" />
         </mxCell>
         <mxCell id="9z-JmmtiOwEKMS3U_jJR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Code = Statefile = Cloud" vertex="1">
-          <mxGeometry height="30" width="240" x="-441.06" y="-25810" as="geometry" />
+          <mxGeometry height="30" width="240" x="-309.18" y="-25810" as="geometry" />
         </mxCell>
         <mxCell id="9z-JmmtiOwEKMS3U_jJR-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fontSize=14;" value="Equilibrium State / Zero Drift State" vertex="1">
-          <mxGeometry height="30" width="240" x="-201.06" y="-25810" as="geometry" />
+          <mxGeometry height="30" width="240" x="-69.18" y="-25810" as="geometry" />
         </mxCell>
         <mxCell id="9z-JmmtiOwEKMS3U_jJR-37" parent="1" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" value="" vertex="1">
-          <mxGeometry height="30" width="60" x="-153.56" y="-25920" as="geometry" />
+          <mxGeometry height="30" width="60" x="-21.680000000000007" y="-25920" as="geometry" />
         </mxCell>
         <mxCell id="9z-JmmtiOwEKMS3U_jJR-38" parent="1" style="shape=mxgraph.signs.healthcare.brain;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" value="" vertex="1">
-          <mxGeometry height="25" width="30" x="-131.06" y="-25872.5" as="geometry" />
+          <mxGeometry height="25" width="30" x="0.8199999999999932" y="-25872.5" as="geometry" />
         </mxCell>
         <mxCell id="9z-JmmtiOwEKMS3U_jJR-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Code =! Statefile =! Cloud" vertex="1">
-          <mxGeometry height="30" width="240" x="-441.06" y="-25780" as="geometry" />
+          <mxGeometry height="30" width="240" x="-309.18" y="-25780" as="geometry" />
         </mxCell>
         <mxCell id="9z-JmmtiOwEKMS3U_jJR-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fontSize=14;" value="Drift State" vertex="1">
-          <mxGeometry height="30" width="240" x="-201.06" y="-25780" as="geometry" />
+          <mxGeometry height="30" width="240" x="-69.18" y="-25780" as="geometry" />
         </mxCell>
         <mxCell id="9z-JmmtiOwEKMS3U_jJR-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#000000;strokeColor=light-dark(#0a0a0a, #959595);" value="Step 4" vertex="1">
           <mxGeometry height="20" width="100" x="-117.5" y="-26300" as="geometry" />
@@ -691,44 +691,44 @@
           <mxGeometry height="20" width="195" x="-22.5" y="-26430" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&#xa;&lt;div style=&quot;color: rgb(187, 190, 191); background-color: rgb(18, 19, 20); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example1&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources1&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example2&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources2&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example3&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources3&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example4&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources4&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" vertex="1">
-          <mxGeometry height="410" width="320" x="-770" y="-25060" as="geometry" />
+          <mxGeometry height="410" width="320" x="-544.37" y="-25080" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&#xa;&lt;div style=&quot;color: rgb(187, 190, 191); background-color: rgb(18, 19, 20); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example1&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources1&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example2&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources2&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example3&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources3&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example4&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources4&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" vertex="1">
-          <mxGeometry height="410" width="320" x="-420" y="-25060" as="geometry" />
+          <mxGeometry height="410" width="320" x="-194.37" y="-25080" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="&#xa;&lt;div style=&quot;color: rgb(187, 190, 191); background-color: rgb(18, 19, 20); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example1&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources1&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example2&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources2&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example3&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources3&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example4&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources4&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;West Europe&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" vertex="1">
-          <mxGeometry height="410" width="320" x="-70" y="-25060" as="geometry" />
+          <mxGeometry height="410" width="320" x="155.63" y="-25080" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="State file - Current State" vertex="1">
-          <mxGeometry height="30" width="220" x="-375" y="-25100" as="geometry" />
+          <mxGeometry height="30" width="220" x="-149.37" y="-25120" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value=" Azure Portal → Actual State / Real World State" vertex="1">
-          <mxGeometry height="30" width="340" x="-80" y="-25100" as="geometry" />
+          <mxGeometry height="30" width="340" x="145.63" y="-25120" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&amp;nbsp;Code File → Desired State" vertex="1">
-          <mxGeometry height="30" width="220" x="-720" y="-25100" as="geometry" />
+          <mxGeometry height="30" width="220" x="-494.37" y="-25120" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-10" edge="1" parent="1" source="fROzk0wpJIWV6DpCYiLn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fROzk0wpJIWV6DpCYiLn-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="71.25" y="-24540" as="targetPoint" />
+            <mxPoint x="328.03" y="-24610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" value="Desired State = Current State =&amp;nbsp; Actual State" vertex="1">
-          <mxGeometry height="60" width="520" x="-778.75" y="-24570" as="geometry" />
+          <mxGeometry height="60" width="520" x="-521.97" y="-24640" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" value="Zero Drift State / Equilibrium State" vertex="1">
-          <mxGeometry height="60" width="343.76" x="-73.76" y="-24570" as="geometry" />
+          <mxGeometry height="60" width="343.76" x="183.01999999999998" y="-24640" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-13" edge="1" parent="1" source="fROzk0wpJIWV6DpCYiLn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fROzk0wpJIWV6DpCYiLn-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-88.75" y="-24450" as="targetPoint" />
+            <mxPoint x="168.02999999999997" y="-24520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" value="Desired State&amp;nbsp;≠ Current State&amp;nbsp;≠ &amp;nbsp;Actual State" vertex="1">
-          <mxGeometry height="60" width="520" x="-778.75" y="-24470" as="geometry" />
+          <mxGeometry height="60" width="520" x="-521.97" y="-24540" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-14" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="Drift State" vertex="1">
-          <mxGeometry height="60" width="348.75" x="-78.75" y="-24470" as="geometry" />
+          <mxGeometry height="60" width="348.75" x="178.02999999999997" y="-24540" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-23" edge="1" parent="1" source="fROzk0wpJIWV6DpCYiLn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fROzk0wpJIWV6DpCYiLn-22" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -740,36 +740,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" value="terraform refresh&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="130" x="-477.31" y="-25680" as="geometry" />
+          <mxGeometry height="60" width="130" x="-345.43" y="-25680" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-27" edge="1" parent="1" source="fROzk0wpJIWV6DpCYiLn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fROzk0wpJIWV6DpCYiLn-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-22" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" value="State file&lt;br&gt;(Current State)" vertex="1">
-          <mxGeometry height="60" width="120" x="-582.5" y="-25580" as="geometry" />
+          <mxGeometry height="60" width="120" x="-450.62" y="-25580" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-24" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" value="Actual Cloud&lt;br&gt;(Actual State)" vertex="1">
-          <mxGeometry height="60" width="120" x="-364.81" y="-25580" as="geometry" />
+          <mxGeometry height="60" width="120" x="-232.93" y="-25580" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-26" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_datasync;" value="" vertex="1">
-          <mxGeometry height="50" width="37.5" x="-427.31" y="-25575" as="geometry" />
+          <mxGeometry height="50" width="37.5" x="-295.43" y="-25575" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-28" parent="1" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" value="Terraform refresh command aapki statefile ke resources ko actual cloud par check karta hai and usse sync karta hai matlb agar resource statefile main present hai and cloud par nhi hai&amp;nbsp; toh voh delete kar dega and agar cloud par present hai and state file main nhi hai toh usse koi lena dena nhi hai." vertex="1">
-          <mxGeometry height="140" width="580" x="-226.25" y="-25720" as="geometry" />
+          <mxGeometry height="140" width="580" x="-94.37" y="-25720" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-52" edge="1" parent="1" source="fROzk0wpJIWV6DpCYiLn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fROzk0wpJIWV6DpCYiLn-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-389" y="-25360" />
-              <mxPoint x="-574" y="-25360" />
+              <mxPoint x="-257.12" y="-25360" />
+              <mxPoint x="-442.12" y="-25360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-53" edge="1" parent="1" source="fROzk0wpJIWV6DpCYiLn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fROzk0wpJIWV6DpCYiLn-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-389" y="-25360" />
-              <mxPoint x="-211" y="-25360" />
+              <mxPoint x="-257.12" y="-25360" />
+              <mxPoint x="-79.12" y="-25360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -777,7 +777,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" value="terraform plan" vertex="1">
-          <mxGeometry height="60" width="181.06" x="-479.46999999999997" y="-25450" as="geometry" />
+          <mxGeometry height="60" width="181.06" x="-347.59" y="-25450" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-34" edge="1" parent="1" source="fROzk0wpJIWV6DpCYiLn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fROzk0wpJIWV6DpCYiLn-39" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -786,19 +786,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" value="terraform refresh&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="130" x="-639.19" y="-25330" as="geometry" />
+          <mxGeometry height="60" width="130" x="-507.31000000000006" y="-25330" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-38" edge="1" parent="1" source="fROzk0wpJIWV6DpCYiLn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fROzk0wpJIWV6DpCYiLn-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-39" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" value="State file&lt;br&gt;(Current State)" vertex="1">
-          <mxGeometry height="60" width="120" x="-744.3800000000001" y="-25230" as="geometry" />
+          <mxGeometry height="60" width="120" x="-612.5000000000001" y="-25230" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-40" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" value="Actual Cloud&lt;br&gt;(Actual State)" vertex="1">
-          <mxGeometry height="60" width="120" x="-526.69" y="-25230" as="geometry" />
+          <mxGeometry height="60" width="120" x="-394.81000000000006" y="-25230" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-41" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_datasync;" value="" vertex="1">
-          <mxGeometry height="50" width="37.5" x="-589.19" y="-25225" as="geometry" />
+          <mxGeometry height="50" width="37.5" x="-457.31000000000006" y="-25225" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-50" edge="1" parent="1" source="fROzk0wpJIWV6DpCYiLn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fROzk0wpJIWV6DpCYiLn-47">
           <mxGeometry relative="1" as="geometry" />
@@ -807,49 +807,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" value="terraform plan" vertex="1">
-          <mxGeometry height="60" width="120" x="-272.5" y="-25330" as="geometry" />
+          <mxGeometry height="60" width="120" x="-140.62" y="-25330" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-46" edge="1" parent="1" source="fROzk0wpJIWV6DpCYiLn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fROzk0wpJIWV6DpCYiLn-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-47" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" value="Code File&lt;br&gt;(Desired State)" vertex="1">
-          <mxGeometry height="60" width="120" x="-372.69000000000005" y="-25230" as="geometry" />
+          <mxGeometry height="60" width="120" x="-240.81000000000006" y="-25230" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-48" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" value="State File&lt;div&gt;(Current State)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-155" y="-25230" as="geometry" />
+          <mxGeometry height="60" width="120" x="-23.120000000000005" y="-25230" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-49" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_datasync;" value="" vertex="1">
-          <mxGeometry height="50" width="37.5" x="-217.5" y="-25225" as="geometry" />
+          <mxGeometry height="50" width="37.5" x="-85.62" y="-25225" as="geometry" />
         </mxCell>
         <mxCell id="fROzk0wpJIWV6DpCYiLn-79" parent="1" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;fontStyle=1;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Terraform refresh command aapki code file ke resources ko state file par check karta hai and agar koi cheez add,change yaa destroy karni hai toh uska preview deta hai&amp;nbsp;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="110" width="380" x="-176.25" y="-25475" as="geometry" />
+          <mxGeometry height="110" width="380" x="-44.370000000000005" y="-25475" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1" value="Remot Backend ----&amp;gt; State file&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="1080.53" x="-800.53" y="-24360" as="geometry" />
+          <mxGeometry height="60" width="1080.53" x="-543.75" y="-24430" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="terraform state list&amp;nbsp;" vertex="1">
-          <mxGeometry height="36.62" width="139.75" x="-129.75" y="-23866.62" as="geometry" />
+          <mxGeometry height="36.62" width="139.75" x="127.02999999999997" y="-23936.62" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;fontSize=22;fontStyle=1" value="Terraform Intermediate Commands&amp;nbsp;" vertex="1">
-          <mxGeometry height="43.38" width="409.75" x="-129.75" y="-23910" as="geometry" />
+          <mxGeometry height="43.38" width="409.75" x="127.02999999999997" y="-23980" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="List all the resources which is present in state file&amp;nbsp;" vertex="1">
-          <mxGeometry height="36.62" width="270" x="10" y="-23866.62" as="geometry" />
+          <mxGeometry height="36.62" width="270" x="266.78" y="-23936.62" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="terraform state show" vertex="1">
-          <mxGeometry height="40" width="140" x="-129.75" y="-23830" as="geometry" />
+          <mxGeometry height="40" width="140" x="127.02999999999997" y="-23900" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="Shows the detail information of the desired resource" vertex="1">
-          <mxGeometry height="40" width="270" x="10.25" y="-23830" as="geometry" />
+          <mxGeometry height="40" width="270" x="267.03" y="-23900" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="546.6176470588235" width="651.06" x="-803.5600000000001" y="-24226.617647058825" as="geometry" />
+          <mxGeometry height="546.6176470588235" width="651.06" x="-546.7800000000001" y="-24296.617647058825" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="Create Infra for ecommerce&amp;nbsp;" vertex="1">
-          <mxGeometry height="52.05882352941177" width="551.1511381101216" x="-751.792521561347" y="-24200.58823529412" as="geometry" />
+          <mxGeometry height="52.05882352941177" width="551.1511381101216" x="-495.01252156134706" y="-24270.58823529412" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-11" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="208.24" width="192.28" x="-790" y="-24131.18" as="geometry" />
+          <mxGeometry height="208.24" width="192.28" x="-533.22" y="-24201.18" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-2" parent="cF8r5lwQ1A8PLScmRNoo-11" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="" vertex="1">
           <mxGeometry height="208.23999999999998" width="192.27999999999997" as="geometry" />
@@ -861,44 +861,44 @@
           <mxGeometry height="52.059999999999995" width="107.58427752133166" x="45.23918869771999" y="138.82666666666665" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-12" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="208.24" width="215.49" x="-575.49" y="-24131.18" as="geometry" />
+          <mxGeometry height="208.24" width="195.49" x="-317.18000000000006" y="-24201.18" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-3" parent="cF8r5lwQ1A8PLScmRNoo-12" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="208.23999999999998" width="215.49" as="geometry" />
+          <mxGeometry height="208.23999999999998" width="195.49" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-6" parent="cF8r5lwQ1A8PLScmRNoo-12" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" value="Siddharth ---&amp;gt; Networking / Security&amp;nbsp;" vertex="1">
-          <mxGeometry height="86.76666666666667" width="109.61391728979092" x="52.93256065924006" y="8.676666666666666" as="geometry" />
+          <mxGeometry height="86.76666666666667" width="99.44045984027672" x="48.01979805686965" y="8.676666666666666" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-19" parent="cF8r5lwQ1A8PLScmRNoo-12" style="rounded=0;whiteSpace=wrap;html=1;" value="State File&amp;nbsp;" vertex="1">
-          <mxGeometry height="52.059999999999995" width="114.12154110949292" x="52.9333748179531" y="138.82666666666665" as="geometry" />
+          <mxGeometry height="52.059999999999995" width="103.52972328875944" x="48.02053665210289" y="138.82666666666665" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="Storage Account&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Container&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;State file&amp;nbsp; ----&amp;gt; Remote backend&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130.15" width="261.74" x="-660" y="-23853.379999999997" as="geometry" />
+          <mxGeometry height="130.15" width="261.74" x="-403.22" y="-23923.379999999997" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Scenario" vertex="1">
-          <mxGeometry height="43.38235294117647" width="650.2491011209551" x="-802.7491011209552" y="-24270" as="geometry" />
+          <mxGeometry height="43.38235294117647" width="650.2491011209551" x="-545.9691011209552" y="-24340" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-46" edge="1" parent="1" source="cF8r5lwQ1A8PLScmRNoo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-353.5559102765961" y="-23788.455882352944" as="targetPoint" />
+            <mxPoint x="-96.77591027659611" y="-23858.455882352944" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-47" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;rounded=0;" value="Yeh cheez hamesha manually banegi naaki terraform se" vertex="1">
-          <mxGeometry height="130.77" width="180.17" x="-353.7300000000001" y="-23854" as="geometry" />
+          <mxGeometry height="130.77" width="180.17" x="-96.9500000000001" y="-23924" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-48" edge="1" parent="1" source="cF8r5lwQ1A8PLScmRNoo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cF8r5lwQ1A8PLScmRNoo-47" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;terraform&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;required_providers&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #dadada;&quot;&gt;azurerm&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;={&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #7f7f7f;&quot;&gt;source&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; =&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;hashicorp/azurerm&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;backend&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #b8d7a3;&quot;&gt;&quot;azurerm&quot;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #dadada;&quot;&gt;resource_group_name&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;example-rg&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #dadada;&quot;&gt;storage_account_name&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;mystoragelink012345&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #dadada;&quot;&gt;container_name&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;statefile&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #dadada;&quot;&gt;key&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;terraform.tfsate&quot;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" link="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;terraform&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;required_providers&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #dadada;&quot;&gt;azurerm&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;={&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #7f7f7f;&quot;&gt;source&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; =&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;hashicorp/azurerm&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;backend&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #b8d7a3;&quot;&gt;&quot;azurerm&quot;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #dadada;&quot;&gt;resource_group_name&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;example-rg&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #dadada;&quot;&gt;storage_account_name&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;mystoragelink012345&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #dadada;&quot;&gt;container_name&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;statefile&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #dadada;&quot;&gt;key&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;terraform.tfsate&quot;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;&amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" id="cF8r5lwQ1A8PLScmRNoo-49">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;" vertex="1">
-            <mxGeometry height="262.94" width="427.5" x="-117.5" y="-24192.94" as="geometry" />
+            <mxGeometry height="262.94" width="427.5" x="139.27999999999997" y="-24262.94" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Backend Block use for&amp;nbsp; uploading state file in container&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="400" x="-120" y="-24270" as="geometry" />
+          <mxGeometry height="60" width="400" x="136.77999999999997" y="-24340" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-51" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="208.23529411764684" width="183.5997461988579" x="-350.001119075036" y="-24131.176470588234" as="geometry" />
+          <mxGeometry height="208.23529411764684" width="183.5997461988579" x="-93.22111907503603" y="-24201.176470588234" as="geometry" />
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-4" parent="cF8r5lwQ1A8PLScmRNoo-51" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="208.23529411764707" width="183.5997461988579" as="geometry" />
@@ -912,26 +912,154 @@
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-54" edge="1" parent="1" source="cF8r5lwQ1A8PLScmRNoo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cF8r5lwQ1A8PLScmRNoo-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-691" y="-23900" />
-              <mxPoint x="-529" y="-23900" />
+              <mxPoint x="-434.22" y="-23970" />
+              <mxPoint x="-272.22" y="-23970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-55" edge="1" parent="1" source="cF8r5lwQ1A8PLScmRNoo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cF8r5lwQ1A8PLScmRNoo-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-465" y="-23900" />
-              <mxPoint x="-529" y="-23900" />
+              <mxPoint x="-208.22000000000003" y="-23970" />
+              <mxPoint x="-272.22" y="-23970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cF8r5lwQ1A8PLScmRNoo-56" edge="1" parent="1" source="cF8r5lwQ1A8PLScmRNoo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cF8r5lwQ1A8PLScmRNoo-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-258" y="-23900" />
-              <mxPoint x="-529" y="-23900" />
+              <mxPoint x="-1.2200000000000273" y="-23970" />
+              <mxPoint x="-272.22" y="-23970" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-72" edge="1" parent="1" source="fXkUDpShBUA49quJcCMy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fXkUDpShBUA49quJcCMy-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-23.75" y="-23440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-73" edge="1" parent="1" source="fXkUDpShBUA49quJcCMy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fXkUDpShBUA49quJcCMy-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="506.25" y="-23440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Creation of Resources using Terraform in Cloud Portal" vertex="1">
+          <mxGeometry height="60" width="758.12" x="-148.56" y="-23690" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-76" edge="1" parent="1" source="fXkUDpShBUA49quJcCMy-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fXkUDpShBUA49quJcCMy-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="276.25" y="-23450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-80" edge="1" parent="1" source="fXkUDpShBUA49quJcCMy-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fXkUDpShBUA49quJcCMy-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Automation" vertex="1">
+          <mxGeometry height="60" width="120" x="336.63" y="-23555" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Manual&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-33.19" y="-23555" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Imperative" vertex="1">
+          <mxGeometry height="40" width="120" x="229.13" y="-23440" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-81" edge="1" parent="1" source="fXkUDpShBUA49quJcCMy-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fXkUDpShBUA49quJcCMy-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="506.25" y="-23370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Declarative" vertex="1">
+          <mxGeometry height="40" width="120" x="446.25" y="-23440" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Terraform" vertex="1">
+          <mxGeometry height="60" width="120" x="446.25" y="-23370" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-93" edge="1" parent="1" source="fXkUDpShBUA49quJcCMy-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fXkUDpShBUA49quJcCMy-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="32.19" y="-23150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-95" edge="1" parent="1" source="fXkUDpShBUA49quJcCMy-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fXkUDpShBUA49quJcCMy-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352.19" y="-23190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;fontStyle=1" value="Dependency In Terraform -----&amp;gt; Creating a resource in one apply" vertex="1">
+          <mxGeometry height="60" width="585" x="-2.8100000000000023" y="-23290" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-91" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="330" width="540" x="-720" y="-23650" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-2" parent="fXkUDpShBUA49quJcCMy-91" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="311.3207547169811" width="513.9033457249071" x="26.096654275092938" y="18.67924528301887" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-4" parent="fXkUDpShBUA49quJcCMy-91" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="267.73584905660374" width="479.62438661710036" x="43.23211895910792" y="43.58490566037736" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-46" parent="fXkUDpShBUA49quJcCMy-91" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" value="" vertex="1">
+          <mxGeometry height="39.84905660377358" width="41.094339622641506" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-47" parent="fXkUDpShBUA49quJcCMy-91" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" value="" vertex="1">
+          <mxGeometry height="44.20754716981132" width="27.39622641509434" x="32.118959107806695" y="39.84905660377358" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-55" parent="fXkUDpShBUA49quJcCMy-91" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="217.9245283018868" width="416.96832713754645" x="74.85323420074351" y="68.49056603773585" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-48" parent="fXkUDpShBUA49quJcCMy-91" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" value="" vertex="1">
+          <mxGeometry height="28.0188679245283" width="35.02358490566038" x="80.29739776951673" y="74.71698113207547" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-57" parent="fXkUDpShBUA49quJcCMy-91" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" value="" vertex="1">
+          <mxGeometry height="21.79245283018868" width="27.24056603773585" x="125.46468401486989" y="136.9811320754717" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="Agenda Creation of Resources" vertex="1">
+          <mxGeometry height="60" width="232.5" x="-543.75" y="-23710" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="Implicit Dependency" vertex="1">
+          <mxGeometry height="40" width="190.43" x="55.24000000000001" y="-23170" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="Explicit Dependency" vertex="1">
+          <mxGeometry height="40" width="190" x="348.06" y="-23170" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Ghar ka Aadmi" vertex="1">
+          <mxGeometry height="40" width="200" x="50.620000000000005" y="-23130" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;" value="Pura Ghar" vertex="1">
+          <mxGeometry height="40" width="200" x="343.44" y="-23130" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-104" connectable="0" parent="1" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="80" width="277.93" x="-19.99999999999999" y="-23080" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-103" parent="fXkUDpShBUA49quJcCMy-104" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="Ghar ke&amp;nbsp; Aadmi ---&amp;gt; name and location" vertex="1">
+          <mxGeometry height="80" width="277.93" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-102" parent="fXkUDpShBUA49quJcCMy-104" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" value="&lt;div style=&quot;color: #bbbebf;background-color: #121314;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(201, 209, 217);&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 166, 87);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 166, 87);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(165, 214, 255);&quot;&gt;&quot;centralindia&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="230.94" x="30.340000000000032" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-106" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="380" x="338.75" y="-23080" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-101" parent="fXkUDpShBUA49quJcCMy-106" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="Ghar pura resource block" vertex="1">
+          <mxGeometry height="110" width="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-100" parent="fXkUDpShBUA49quJcCMy-106" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #bbbebf;background-color: #121314;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;centralindia&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91.67" width="349.25" x="10.75" y="18.33" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Varibale&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="530" x="-692.5" y="-23270" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" value="Giving Implicit Dependency" vertex="1">
+          <mxGeometry height="40" width="323.37" x="-58.79000000000002" y="-22990" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;color: #bbbebf;background-color: #121314;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;# Create a resource group&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;centralindia&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;# azurerm_resource_group.example.name &amp;nbsp; -----&amp;gt; state file &lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;# Create &amp;nbsp;a storage account &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_storage_account&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;storageaccountname&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;resource_group_name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;azurerm_resource_group&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;example&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;#implicit dependecy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;azurerm_resource_group&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;example&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;#implicit dependeny&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;account_tier&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;Standard&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;account_replication_type&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;GRS&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" link="&lt;div style=&quot;color: #bbbebf;background-color: #121314;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;# Create a resource group&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_resource_group&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;centralindia&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;# azurerm_resource_group.example.name &amp;nbsp; -----&amp;gt; state file &lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;# Create &amp;nbsp;a storage account &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_storage_account&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;storageaccountname&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;resource_group_name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;azurerm_resource_group&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;example&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;#implicit dependecy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;azurerm_resource_group&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;example&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;#implicit dependeny&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;account_tier&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;Standard&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;account_replication_type&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;GRS&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" id="fXkUDpShBUA49quJcCMy-111">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="310" width="560" x="-415" y="-22940" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fXkUDpShBUA49quJcCMy-112" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #bbbebf;background-color: #121314;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12.6px;line-height: 17px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;# Create a virtual network within the resource group&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;resource&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;azurerm_virtual_network&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #79c0ff;&quot;&gt;&quot;example&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;depends_on&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;azurerm_resource_group&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;example&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;] &lt;/span&gt;&lt;span style=&quot;color: #8b949e;&quot;&gt;#Explicit Dependency&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-network&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;resource_group_name&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;example-resources&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;location&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;centralindia&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;address_space&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #ffa657;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #a5d6ff;&quot;&gt;&quot;10.0.0.0/16&quot;&lt;/span&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c9d1d9;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="560" x="340" y="-22900" as="geometry" />
+        </mxCell>
+        <mxCell id="fXkUDpShBUA49quJcCMy-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" value="Giving Explicit Dependency" vertex="1">
+          <mxGeometry height="40" width="323.37" x="340" y="-22950" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
